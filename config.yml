@@ -2,21 +2,21 @@
 application_id: "1311204057490259979"
 
 # Activity type: 0 = Playing, 1 = Streaming, 2 = Listening, 3 = Watching
-type: 3
+type: 1
 
 # Activity Details
-name: "Youtube"
-details: "Watching Nexos Labs"
-state: "Subscribe"
+name: "The Death of 7 Billion People"
+details: "Killing 7 billion people"
+state: "Kill them, kill them all~!"
 
 # Activity Images
-largeImageKey: "1377844502521446490"
-largeImageText: "Watching Nexos Labs"
-smallImageKey: "1377845999464087653"
-smallImageText: "Subscribe"
+largeImageKey: "https://static2.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/9f/1c/ZncKz7aDglIPb0wgKk.gif"
+largeImageText: "I am Niko from Blue Archive"
+smallImageKey: "https://static2.klipy.com/ii/4493325008d34b7bf8cd6813cd5c1619/9f/1c/ZncKz7aDglIPb0wgKk.gif"
+smallImageText: "Fox 2, Ready for The Mission!"
 
 # Activity URL (optional, works only with certain types)
-url: "https://www.youtube.com/@nexoscreator"
+url: "https://twitch.tv"
 
 # Activity Buttons (optional)
 buttons:
@@ -26,5 +26,5 @@ buttons:
     url: "https://github.com/nexoslabs/discord-24-7-rich-presence"
 
 # Activity Custom status
-custom_status: "Watching tutorials"
-custom_emoji: "🔥"
+custom_status: "Kill people with me."
+custom_emoji: "🔫"
