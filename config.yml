@@ -1,5 +1,5 @@
 # Replace with your Discord Application ID
-application_id: "1311204057490259979"
+application_id: "1540240351053217802"
 
 # Activity type: 0 = Playing, 1 = Streaming, 2 = Listening, 3 = Watching
 type: 1
@@ -10,9 +10,9 @@ details: "Killing 7 billion people"
 state: "Kill them, kill them all~!"
 
 # Activity Images
-largeImageKey: "1377844502521446490"
+largeImageKey: "niko"
 largeImageText: "I am Niko from Blue Archive"
-smallImageKey: "1377845999464087653"
+smallImageKey: "niko"
 smallImageText: "Fox 2, Ready for The Mission!"
 
 # Activity URL (optional, works only with certain types)
