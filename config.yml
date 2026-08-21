@@ -10,9 +10,9 @@ details: "Killing 7 billion people"
 state: "Kill them, kill them all~!"
 
 # Activity Images
-largeImageKey: "niko"
+largeImageKey: ""
 largeImageText: "I am Niko from Blue Archive"
-smallImageKey: "niko"
+smallImageKey: ""
 smallImageText: "Fox 2, Ready for The Mission!"
 
 # Activity URL (optional, works only with certain types)
