@@ -8,6 +8,7 @@ type: 1
 name: "The Death of 7 Billion People"
 details: "Killing 7 billion people"
 state: "Kill them, kill them all~!"
+startTimestamp: 1124582400000
 
 # Activity Images
 largeImageKey: "1540243369572311111"
