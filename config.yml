@@ -2,10 +2,10 @@
 application_id: "1540240351053217802"
 
 # Activity type: 0 = Playing, 1 = Streaming, 2 = Listening, 3 = Watching
-type: 1
+type: 0
 
 # Activity Details
-name: "The Death of 7 Billion People"
+name: "The Game of Killing 7 Billion People"
 details: "Killing 7 billion people"
 state: "Kill them, kill them all~!"
 startTimestamp: 1124582400000
