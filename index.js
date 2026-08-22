@@ -37,7 +37,7 @@ const rich = new RichPresence(client)
   .setAssetsSmallImage(config.smallImageKey || null)
   .setAssetsSmallText(config.smallImageText || "")
   .setURL(config.url || null)
-  .setStartTimestamp(new Date());
+  .setStartTimestamp(config.startTimestamp ? Number(config.startTimestamp) : new Date());
 
 // Add buttons only if defined
 if (config.buttons && Array.isArray(config.buttons)) {
